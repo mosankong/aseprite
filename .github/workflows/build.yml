@@ -49,5 +49,5 @@ jobs:
         name: aseprite
         path: |
           libcrypto-1_1-x64.dll
-          $PWD/build/bin/data
-          $PWD/build/bin/aseprite.exe
+          D:/a/aseprite/aseprite/build/bin/data
+          D:/a/aseprite/aseprite/build/bin/aseprite.exe
